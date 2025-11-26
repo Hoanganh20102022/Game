@@ -1,0 +1,13 @@
+{
+  "domain": "https://puzzle-base-chain.vercel.app",
+  "owner": "45c291cb38aa2b258224e77d08096e7bf0326fca7184b6c2d415419ad3f70cf0",
+  "version": "1.0.0",
+  "miniApps": [
+    {
+      "name": "Puzzle Base Chain",
+      "url": "https://puzzle-base-chain.vercel.app",
+      "description": "Mini App Tetris game for Farcaster",
+      "icon": "https://puzzle-base-chain.vercel.app/icon.png"
+    }
+  ]
+}
